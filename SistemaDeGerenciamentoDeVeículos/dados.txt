@@ -1,0 +1,7 @@
+Carro,Onix,2020,100.0
+Moto,CG 160,2018,50.0
+Carro,Corolla,2021,150.0
+Moto,Honda CG 160,2019,90.5
+Moto,Honda CB 250 F Twister,2020,75.0
+Moto,Dafra Apache RTR 200,2005,30.0
+Carro,Fusca,1968,25.5
