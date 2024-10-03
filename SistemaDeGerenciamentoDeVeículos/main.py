@@ -58,6 +58,5 @@ def main():
     veiculo_selecionado = veiculos[resposta - 1]
     print(f'\nO preço total para o aluguel do {veiculo_selecionado.nome} será R${veiculo_selecionado.calcular_valor_aluguel(dias):.2f}')
     
-
-main()
-
+if __file__ == '__main__':
+    main()
